@@ -1,0 +1,4 @@
+Escreva o vetor resultante ao aplicar o algoritmo de ordenação bubble sort do vetor seguinte:
+26 65 45 73 10 18 78 93 70 49 23 22
+
+escreva a mesma solicitação em selection sort e insertion sort.
