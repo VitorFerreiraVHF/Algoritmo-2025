@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO-2025", "POO-2025", "{EAFBD776-8D64-1A71-D61B-33ABBD8C23C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lista de Exercícios - POO - Individual", "Lista de Exercícios - POO - Individual", "{7425F982-C300-0CD2-AE31-8BC1387472A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ativ1", "POO-2025\Lista de Exercícios - POO - Individual\Ativ1\Ativ1.csproj", "{A189D58F-0EA2-1A64-F701-BC05FDACA212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer2", "POO-2025\Lista de Exercícios - POO - Individual\Exer2\Exer2.csproj", "{001F292E-21A9-5EA5-0BBA-7FA194168211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer3", "POO-2025\Lista de Exercícios - POO - Individual\Exer3\Exer3.csproj", "{649853A4-C4D9-08AB-93A6-E284ECBB82AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer4", "POO-2025\Lista de Exercícios - POO - Individual\Exer4\Exer4.csproj", "{982362BF-4647-022E-1874-F11E9414B199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A189D58F-0EA2-1A64-F701-BC05FDACA212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A189D58F-0EA2-1A64-F701-BC05FDACA212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A189D58F-0EA2-1A64-F701-BC05FDACA212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A189D58F-0EA2-1A64-F701-BC05FDACA212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001F292E-21A9-5EA5-0BBA-7FA194168211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001F292E-21A9-5EA5-0BBA-7FA194168211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001F292E-21A9-5EA5-0BBA-7FA194168211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001F292E-21A9-5EA5-0BBA-7FA194168211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649853A4-C4D9-08AB-93A6-E284ECBB82AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649853A4-C4D9-08AB-93A6-E284ECBB82AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649853A4-C4D9-08AB-93A6-E284ECBB82AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649853A4-C4D9-08AB-93A6-E284ECBB82AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982362BF-4647-022E-1874-F11E9414B199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982362BF-4647-022E-1874-F11E9414B199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982362BF-4647-022E-1874-F11E9414B199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982362BF-4647-022E-1874-F11E9414B199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7425F982-C300-0CD2-AE31-8BC1387472A4} = {EAFBD776-8D64-1A71-D61B-33ABBD8C23C1}
+		{A189D58F-0EA2-1A64-F701-BC05FDACA212} = {7425F982-C300-0CD2-AE31-8BC1387472A4}
+		{001F292E-21A9-5EA5-0BBA-7FA194168211} = {7425F982-C300-0CD2-AE31-8BC1387472A4}
+		{649853A4-C4D9-08AB-93A6-E284ECBB82AD} = {7425F982-C300-0CD2-AE31-8BC1387472A4}
+		{982362BF-4647-022E-1874-F11E9414B199} = {7425F982-C300-0CD2-AE31-8BC1387472A4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B3A9BD-8730-4D26-B8DD-1A863B0D89F7}
+	EndGlobalSection
+EndGlobal
